@@ -8,7 +8,7 @@ header:
   actions:
     - label: "My Projects"
       url: "/portfolio/"
-excerpt: "Dr. David Florian is an engineer with a passion for teaching and the open-source community. His area of expertise is 3D printing, with an emphasis on large format pellet extrusion and selective laser sintering."
+excerpt: "Kevin Tran is a Biomedical Engineer driven by a passion for designing innovative, user-centered assistive technologies that enhance lives. With expertise in signal processing, hardware design, and 3D modeling, Kevin integrates cutting-edge solutions in fields such as prosthetics, accessibility devices, and medical instrumentation. He brings a collaborative and problem-solving mindset to advancing accessibility and medical care."
 feature_row:
   - image_path: assets/img/CNC-Mill-Thumbnail.jpg
     alt: "CNC Mill"

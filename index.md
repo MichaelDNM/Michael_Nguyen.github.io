@@ -1,27 +1,27 @@
 ---
-title: "Example Web Page"
+title: "Kevin Tran | Biomedical Engineer"
 layout: splash
 header:
   overlay_color: "#000"
   overlay_filter: "0.5"
   overlay_image: /assets/img/Home-Banner-Image.jpeg
   actions:
-    - label: "My Projects"
-      url: "/portfolio/"
-excerpt: "Kevin Tran is a Biomedical Engineer driven by a passion for designing innovative, user-centered assistive technologies that enhance lives. With expertise in signal processing, hardware design, and 3D modeling, Kevin integrates cutting-edge solutions in fields such as prosthetics, accessibility devices, and medical instrumentation. He brings a collaborative and problem-solving mindset to advancing accessibility and medical care."
+    - label: "View My Bionic Hand Project"
+      url: "/bionic-hand/"
+excerpt: "Kevin Tran is a dedicated Biomedical Engineer passionate about developing life-changing assistive technologies. With a strong foundation in signal processing, hardware design, and 3D modeling, Kevin specializes in crafting innovative solutions in prosthetics, medical instrumentation, and accessibility devices. Committed to collaboration and user-centered design, Kevin is driven to advance healthcare accessibility and improve lives through cutting-edge engineering."
 feature_row:
-  - image_path: assets/img/CNC-Mill-Thumbnail.jpg
-    alt: "CNC Mill"
-    title: "Custom CNC Milling Machine"
-    excerpt: "Built for fabricating aluminum and steel parts."
-  - image_path: assets/img/Plasma-Cutter-Banner.jpg
-    alt: "placeholder image 2"
-    title: "DIY Plasma Cutter"
-    excerpt: "A hot plasma stream slices through sheet metal."
-  - image_path: assets/img/Zidex-Thumbnail.jpg
-    title: "Bespoke IDEX 3D Printer"
-    excerpt: "Multimaterial printing. "
+  - image_path: assets/img/Bionic-Hand-Thumbnail.jpg
+    alt: "Bionic Hand"
+    title: "EMG-Controlled Bionic Hand"
+    excerpt: "An innovative project integrating bio-signal processing with 3D modeling to enhance prosthetic hand functionality."
 ---
 
 {% include feature_row %}
 
+## Welcome to My Portfolio
+Explore my work and passion for advancing accessibility in medical technology. Dive into my Bionic Hand project to see how I combine engineering and user-centered design to create life-changing solutions.
+
+---
+
+## Featured Project: EMG-Controlled Bionic Hand
+This project focuses on creating a functional bionic hand powered by EMG signals. It combines advanced signal processing, custom-designed hardware, and 3D printing to replicate natural hand movements. Check out the full project documentation for a closer look into its design and implementation.

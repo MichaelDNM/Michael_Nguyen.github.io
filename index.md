@@ -13,7 +13,7 @@ feature_row:
   - image_path: assets/img/Full_Bionic_Hand.jpg
     alt: "Bionic Hand"
     title: "EMG-Controlled Bionic Hand"
-    excerpt: "An innovative project integrating bio-signal processing with 3D modeling to enhance prosthetic hand functionality."
+    excerpt: "A prosthetic device replicating natural hand movements using EMG signals. Combining advanced bio-signal processing with 3D-printed components and servo motor control, this project demonstrates the integration of hardware and software to create a functional, user-centered solution that advances prosthetic accessibility."
 ---
 
 {% include feature_row %}

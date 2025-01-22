@@ -30,15 +30,6 @@ This innovative prosthetic device replicates natural hand movements by convertin
   - Lightweight, customizable design with 3D-printed components.
 
 ---
-### Purpose and Features
-- **Purpose**: To develop a prosthetic hand that mimics natural hand movements using muscle activity data (EMG).
-- **Key Features**:
-  - EMG signal integration for real-time control.
-  - Servo motor articulation for lifelike finger movement.
-  - OLED display for feedback on muscle signals and system status.
-  - Lightweight, customizable design with 3D-printed components.
-
----
 
 ### Parts List
 
@@ -63,7 +54,7 @@ This innovative prosthetic device replicates natural hand movements by convertin
 
 ### Arduino Code
 The Arduino code processes EMG signals and controls the servos for finger movements. The code can be accessed here:  
-[GitHub Repository - Arduino Code](https://github.com/JKevin101/Bionic_Hand)
+[Arduino Code](https://github.com/JKevin101/Bionic_Hand/blob/5ccf55b6d32624cabfeccd29a5afa77dec50e408/Bionic_Hand_Code/Bionic_Hand_Code.ino)
 
 ---
 

@@ -17,11 +17,3 @@ feature_row:
 ---
 
 {% include feature_row %}
-
-## Welcome to My Portfolio
-Explore my work and passion for advancing accessibility in medical technology. Dive into my Bionic Hand project to see how I combine engineering and user-centered design to create life-changing solutions.
-
----
-
-## Featured Project: EMG-Controlled Bionic Hand
-This project focuses on creating a functional bionic hand powered by EMG signals. It combines advanced signal processing, custom-designed hardware, and 3D printing to replicate natural hand movements. Check out the full project documentation for a closer look into its design and implementation.

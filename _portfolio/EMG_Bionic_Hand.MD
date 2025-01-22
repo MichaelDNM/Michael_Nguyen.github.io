@@ -67,7 +67,7 @@ The Arduino code processes EMG signals and controls the servos for finger moveme
 
 1. **Hardware Setup**:
    - **EMG Sensor Placement**: Attach the MyoWare EMG sensors to the target muscle groups responsible for hand movements. Ensure proper skin contact for accurate signal detection.
-   - **Circuit Assembly**: Connect the EMG sensors, servo motors, and OLED display to the Arduino board as per the provided circuit diagram in your [GitHub repository](https://github.com/JKevin101/Bionic_Hand).
+   - **Circuit Assembly**: Connect the EMG sensors, servo motors, and OLED display to the Arduino board as per the provided circuit diagram in the [GitHub repository](https://github.com/JKevin101/Bionic_Hand/blob/5ccf55b6d32624cabfeccd29a5afa77dec50e408/README.md).
 
 2. **Software Setup**:
    - **Arduino IDE**: Download and install the [Arduino IDE](https://www.arduino.cc/en/software/).

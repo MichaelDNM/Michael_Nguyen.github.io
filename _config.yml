@@ -83,7 +83,9 @@ og_image                 :
 social:
   type                   : # Person or Organization (defaults to Person)
   name                   : # If the user or organization name differs from the site's name
-  links: # An array of links to social media profiles
+  links: # An array of links to social media profiles 
+    - "https://github.com/JKevin101"
+    - "www.linkedin.com/in/kevin-tran-2187a31b4"
     - "https://www.instagram.com/kevin.t_t/"
 
 # Analytics
@@ -107,9 +109,9 @@ author:
     - label: "LinkedIn"
       icon: "fab fa-fw fa-linkedin"
       url: "www.linkedin.com/in/kevin-tran-2187a31b4"
-    # - label: "Instagram"
-    #   icon: "fab fa-fw fa-instagram"
-    #   url: "https://www.instagram.com/dr.dflo"
+    - label: "Instagram"
+      icon: "fab fa-fw fa-instagram"
+      url: "https://www.instagram.com/kevin.t_t/"
 
 
 # Site Footer
@@ -121,6 +123,9 @@ footer:
     - label: "LinkedIn"
       icon: "fab fa-fw fa-linkedin"
       url: "www.linkedin.com/in/kevin-tran-2187a31b4"
+    - label: "Instagram"
+      icon: "fab fa-fw fa-instagram"
+      url: "https://www.instagram.com/kevin.t_t/"
 
 
 # Reading Files

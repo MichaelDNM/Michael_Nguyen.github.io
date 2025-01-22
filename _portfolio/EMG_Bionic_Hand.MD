@@ -2,11 +2,11 @@
 title: "EMG-Controlled Bionic Hand"
 excerpt: "This custom-designed bionic hand operates using EMG signals, combining precision engineering and innovative bio-signal processing for enhanced prosthetic functionality."
 header:
-  image: /assets/img/Prototype.jpg
-  teaser: /assets/img/Full_Assembly.jpg
+  image: /assets/img/Full_Assembly.jpg
+  teaser: /assets/img/Prototype.jpg
 gallery:
-  - url: /assets/img/Full_Assembly.jpg
-    image_path: /assets/img/Full_Assembly.jpg
+  - url: /assets/img/Prototype.jpg
+    image_path: /assets/img/Prototype.jpg
     alt: "placeholder image 1"
   - url: /assets/img/Circuitboard.jpg
     image_path: /assets/img/Circuitboard.jpg
@@ -18,8 +18,6 @@ gallery:
 ---
 
 This innovative prosthetic device replicates natural hand movements by converting EMG signals from muscle activity into precise mechanical motion. Powered by MyoWare EMG sensors, an Arduino microcontroller, and five servo motors, the bionic hand provides lifelike articulation and responsiveness. An OLED display enhances usability by offering real-time feedback on muscle signals and system performance. Combining advanced bio-signal processing, hardware design, and software development, this project demonstrates a functional and accessible solution for improving prosthetic technology.
-
-{% include gallery caption="This is a sample gallery to go along with this case study." %}
 
 ### Purpose and Features
 - **Purpose**: To develop a prosthetic hand that mimics natural hand movements using muscle activity data (EMG).

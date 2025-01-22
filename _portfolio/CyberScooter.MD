@@ -1,6 +1,6 @@
 ---
-title: "Cyber Scooter"
-excerpt: "This custom electric vehicle can reach speeds of up 30 MPH and has a range of over 50 miles!"
+title: "EMG-Controlled Bionic Hand"
+excerpt: "This custom-designed bionic hand operates using EMG signals, combining precision engineering and innovative bio-signal processing for enhanced prosthetic functionality."
 header:
   image: /assets/img/Cyber-Scooter-Banner.jpg
   teaser: /assets/img/Cyber-Scooter-TH.jpg

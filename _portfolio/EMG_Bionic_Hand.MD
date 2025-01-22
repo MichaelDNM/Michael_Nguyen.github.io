@@ -14,7 +14,6 @@ gallery:
   - url: /assets/img/Visual.png
     image_path: /assets/img/Visual.png
     alt: "placeholder image 3"
----
 
 This innovative prosthetic device replicates natural hand movements by converting EMG signals from muscle activity into precise mechanical motion. Powered by MyoWare EMG sensors, an Arduino microcontroller, and five servo motors, the bionic hand provides lifelike articulation and responsiveness. An OLED display enhances usability by offering real-time feedback on muscle signals and system performance. Combining advanced bio-signal processing, hardware design, and software development, this project demonstrates a functional and accessible solution for improving prosthetic technology.
 
@@ -67,7 +66,7 @@ The Arduino code processes EMG signals and controls the servos for finger moveme
 ---
 
 ### Interactive 3D Model
-An interactive Fusion 360 model of the Bionic Hand assembly is available [here](#). *(Update with the actual link to the model if hosted online)*
+<iframe src="https://myhub.autodesk360.com/ue2df0af5/shares/public/SH35dfcQT936092f0e437224cd558fdcdc2f?mode=embed" width="800" height="600" allowfullscreen="true" webkitallowfullscreen="true" mozallowfullscreen="true"  frameborder="0"></iframe>
 
 ---
 
@@ -97,3 +96,5 @@ An interactive Fusion 360 model of the Bionic Hand assembly is available [here](
 
 ### Conclusion
 This project demonstrates how bio-signal processing and 3D-printed engineering can create accessible, innovative solutions for prosthetic development, advancing functionality and usability for individuals requiring assistive devices.
+
+---

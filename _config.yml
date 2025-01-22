@@ -15,7 +15,7 @@ title                    : "Kevin Tran"
 title_separator          : "-"
 subtitle                 : "Innovating in Robotics, Prosthetics, and Electrical Equipment"
 name                     : &name "Kevin Tran" # &name is a YAML anchor which can be *referenced later
-description              : &description "Example website for class "
+description              : &description "Innovating in Robotics, Prosthetics, and Electrical Equipment"
 url                      : https://kevintran.github.io/ # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : # the subpath of your site, e.g. "/blog"
 repository               : 

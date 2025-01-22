@@ -2,7 +2,7 @@
 title: "EMG-Controlled Bionic Hand"
 excerpt: "This custom-designed bionic hand operates using EMG signals, combining precision engineering and innovative bio-signal processing for enhanced prosthetic functionality."
 header:
-  image: /assets/img/Full_Assembly.jpg
+  image: /assets/img/Prototype.jpg
   teaser: /assets/img/Full_Assembly.jpg
 gallery:
   - url: /assets/img/Full_Assembly.jpg
@@ -82,7 +82,7 @@ An interactive Fusion 360 model of the Bionic Hand assembly is available [here](
    - **Library Installation**: Within the Arduino IDE, install the necessary libraries:
      - `Servo.h` for controlling the servo motors.
      - `Wire.h`, `Adafruit_GFX.h`, and `Adafruit_SSD1306.h` for handling the OLED display.
-   - **Code Upload**: Open the Arduino code from your [GitHub repository](https://github.com/JKevin101/Bionic_Hand) and upload it to the Arduino board.
+   - **Code Upload**: Open the Arduino code from [GitHub repository](https://github.com/JKevin101/Bionic_Hand) and upload it to the Arduino board.
 
 3. **System Calibration**:
    - **Power On**: Supply power to the Arduino board.

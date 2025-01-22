@@ -8,11 +8,11 @@ gallery:
   - url: /assets/img/Full_Assembly.jpg
     image_path: /assets/img/Full_Assembly.jpg
     alt: "placeholder image 1"
-  - url: assets/img/Circuitboard.jpg
-    image_path: assets/img/Circuitboard.jpg
+  - url: /assets/img/Circuitboard.jpg
+    image_path: /assets/img/Circuitboard.jpg
     alt: "placeholder image 2"
-  - url: assets/img/Visual.png
-    image_path: assets/img/Visual.png
+  - url: /assets/img/Visual.png
+    image_path: /assets/img/Visual.png
     alt: "placeholder image 3"
 ---
 

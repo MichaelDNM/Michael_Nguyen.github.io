@@ -32,7 +32,6 @@ This innovative prosthetic device replicates natural hand movements by convertin
 ---
 
 ### Parts List
-
 #### Off-the-Shelf Components
 
 | **Part**               | **Quantity** | **Description**                       |
@@ -52,12 +51,6 @@ This innovative prosthetic device replicates natural hand movements by convertin
 
 ---
 
-### Arduino Code
-The Arduino code processes EMG signals and controls the servos for finger movements. The code can be accessed here:  
-[Arduino Code](https://github.com/JKevin101/Bionic_Hand/blob/5ccf55b6d32624cabfeccd29a5afa77dec50e408/Bionic_Hand_Code/Bionic_Hand_Code.ino)
-
----
-
 ### Interactive 3D Model
 <iframe src="https://myhub.autodesk360.com/ue2df0af5/shares/public/SH35dfcQT936092f0e437224cd558fdcdc2f?mode=embed" width="800" height="600" allowfullscreen="true" webkitallowfullscreen="true" mozallowfullscreen="true"  frameborder="0"></iframe>
 
@@ -67,14 +60,14 @@ The Arduino code processes EMG signals and controls the servos for finger moveme
 
 1. **Hardware Setup**:
    - **EMG Sensor Placement**: Attach the MyoWare EMG sensors to the target muscle groups responsible for hand movements. Ensure proper skin contact for accurate signal detection.
-   - **Circuit Assembly**: Connect the EMG sensors, servo motors, and OLED display to the Arduino board as per the provided circuit diagram in the [GitHub repository](https://github.com/JKevin101/Bionic_Hand/blob/5ccf55b6d32624cabfeccd29a5afa77dec50e408/README.md).
+   - **Circuit Assembly**: Connect the EMG sensors, servo motors, and OLED display to the Arduino board as per the provided circuit diagram in the [Circuit Diagram](https://github.com/JKevin101/Bionic_Hand/blob/5ccf55b6d32624cabfeccd29a5afa77dec50e408/README.md).
 
 2. **Software Setup**:
    - **Arduino IDE**: Download and install the [Arduino IDE](https://www.arduino.cc/en/software/).
    - **Library Installation**: Within the Arduino IDE, install the necessary libraries:
      - `Servo.h` for controlling the servo motors.
      - `Wire.h`, `Adafruit_GFX.h`, and `Adafruit_SSD1306.h` for handling the OLED display.
-   - **Code Upload**: Open the Arduino code from [GitHub repository](https://github.com/JKevin101/Bionic_Hand) and upload it to the Arduino board.
+   - **Code Upload**: Open the Arduino code from [Arduino Code](https://github.com/JKevin101/Bionic_Hand/blob/5ccf55b6d32624cabfeccd29a5afa77dec50e408/Bionic_Hand_Code/Bionic_Hand_Code.ino) and upload it to the Arduino board.
 
 3. **System Calibration**:
    - **Power On**: Supply power to the Arduino board.

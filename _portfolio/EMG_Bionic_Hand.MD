@@ -2,17 +2,17 @@
 title: "EMG-Controlled Bionic Hand"
 excerpt: "This custom-designed bionic hand operates using EMG signals, combining precision engineering and innovative bio-signal processing for enhanced prosthetic functionality."
 header:
-  image: /assets/img/Assembly.jpg
-  teaser: /assets/img/Assembly.jpg
+  image: /img/Assembly.jpg
+  teaser: /img/Assembly.jpg
 gallery:
-  - url: /assets/img/Full_Assembly.jpg
-    image_path: /assets/img/Full_Assembly.jpg
+  - url: /img/Full_Assembly.jpg
+    image_path: /img/Full_Assembly.jpg
     alt: "placeholder image 1"
-  - url: assets/img/Circuitboard.jpg
-    image_path: assets/img/Circuitboard.jpg
+  - url: /img/Circuitboard.jpg
+    image_path: /img/Circuitboard.jpg
     alt: "placeholder image 2"
-  - url: assets/img/Visual.png
-    image_path: assets/img/Visual.png
+  - url: /img/Visual.png
+    image_path: /img/Visual.png
     alt: "placeholder image 3"
 ---
 

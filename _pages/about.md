@@ -1,32 +1,35 @@
 ---
-
-title: "About David Florian"
-
+title: "About Kevin Tran"
 ---
 
 ## Education
 
-David prides himself on his diverse skill set. His most prominent fields of expertise are additive manufacturing (i.e., 3D printing) and biotechnology. 
+Kevin Tran is a dedicated Biomedical Engineer with a strong foundation in integrating engineering principles into healthcare solutions. His expertise spans robotics, prosthetics, and electrical equipment design.
 
-* Vanderbilt University
-  * BE Biomedical Engineering
-  * Minor(s): 
-     * Electrical Computer Engineering
-     * Computer Science
-     * Digital Fabrication
+### Vanderbilt University  
+- **Bachelor of Engineering in Biomedical Engineering** (Expected May 2025)  
+  - Minor(s):  
+    - Electrical and Computer Engineering  
+    - Computer Science  
+    - Digital Fabrication  
+
+---
 
 ## Technical Skills
 
-David can operate a number of different computer controlled (CNC) fabrication tools to turn 3D models into real-life parts. David has experience with the following additive manufacturing technologies:
+Kevin is proficient in utilizing advanced engineering tools and software to design, fabricate, and optimize intricate systems. His technical skills include:  
 
-* Fused Filament Fabrication (FFF)
-* Stereolithography (SLA)
-* Selective Laser Sintering (SLS)
-* 3D Inkjet Printing
-* Bioplotting
+### Fabrication and Prototyping:
+- 3D Printing Technologies:
+  - Fused Filament Fabrication (FFF)
+  - Stereolithography (SLA)
+  - Selective Laser Sintering (SLS)   
 
-## Press 
+### Programming and Software:
+- Languages: Python, MATLAB, C++, Arduino  
+- Tools: SolidWorks (Certified), OnShape, LabVIEW, Raspberry Pi  
 
-The new Digital Fabrication Minor was covered in the [Vanderbilt Hustler](https://vanderbilthustler.com/2022/11/09/digital-fabrication-minor-introduced-for-2022-23-academic-year/).
-
-<img src="/assets/img/David_Headshot_web2.jpg" alt="David Florian" style="width:200px;"/>
+### Areas of Expertise:
+- Signal Processing and Bio-Signal Integration  
+- Robotics and Mechanical Prototyping  
+- User-Centered Design for Prosthetics  

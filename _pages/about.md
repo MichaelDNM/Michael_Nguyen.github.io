@@ -1,5 +1,5 @@
 ---
-title: "About Kevin Tran"
+title: "About Michael Nguyen"
 ---
 
 ## Education

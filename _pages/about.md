@@ -2,7 +2,6 @@
 title: "About Michael Nguyen"
 ---
 
-## About Me 
 Michael Nguyen is a dedicated professional with experience in IT sales, customer service, and hospitality. With a strong foundation in problem-solving, communication, and leadership, he thrives in fast-paced environments that require adaptability and efficiency. His expertise spans sales strategy, client relationship management, and team coordination, making him a valuable asset in both technical and service-driven industries.
 
 ---
@@ -45,5 +44,3 @@ Michael Nguyen is a dedicated professional with experience in IT sales, customer
 🚀 Leadership & Team Coordination  
 🚀 Psychology & Human Behavior Studies  
 🚀 Customer Service & Hospitality Management  
-
----

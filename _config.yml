@@ -13,9 +13,9 @@ minimal_mistakes_skin    : "default" # "air", "aqua", "contrast", "dark", "dirt"
 locale                   : "en-US"
 title                    : "Michael Nguyen"
 title_separator          : "-"
-subtitle                 : "Retard"
+subtitle                 : "IT Specialist"
 name                     : &name "Michael Nguyen" # &name is a YAML anchor which can be *referenced later
-description              : &description "Bing bong Motherfucker"
+description              : &description "Michael Nguyen is a highly motivated and adaptable professional with experience in both the IT and food service industries. With a strong background in customer support, sales, and team leadership, he excels in fast-paced environments that require problem-solving and efficiency. Passionate about helping others and continuously learning, Michael is currently advancing his education in psychology and nursing, aiming to blend technical expertise with a deep understanding of human behavior. His enthusiasm for teamwork, hospitality, and service-driven industries makes him a dynamic asset in any field he pursues."
 url                      : https://michaelnguyen.github.io/ # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : # the subpath of your site, e.g. "/blog"
 repository               : 
@@ -84,10 +84,9 @@ social:
   type                   : # Person or Organization (defaults to Person)
   name                   : # If the user or organization name differs from the site's name
   links: # An array of links to social media profiles 
-    # - "https://github.com/JKevin101"
-    # - "https://www.linkedin.com/in/kevin-tran-2187a31b4/"
-    # - "https://www.instagram.com/kevin.t_t/"
-    "Insert ur shit here bro"
+     - "https://github.com/MichaelDNM"
+     - "https://www.linkedin.com/in/michael-nguyen-4861a9132/"
+     - "https://www.instagram.com/michaeldnm/"
 
 # Analytics
 analytics:
@@ -101,34 +100,32 @@ analytics:
 author:
   name             : *name # *name is a YAML reference pointing to the &anchor earlier
   avatar           : "assets/img/Headshot_Image.jpg"
-  bio              : "NIGGER"
+  bio              : "IT Specialist"
   location         : "Lawrenceville, GA"
   links:
-    # - label: "GitHub"
-    #   icon: "fab fa-fw fa-github"
-    #   url: "https://github.com/JKevin101"
-    # - label: "LinkedIn"
-    #   icon: "fab fa-fw fa-linkedin"
-    #   url: "https://www.linkedin.com/in/kevin-tran-2187a31b4/"
-    # - label: "Instagram"
-    #   icon: "fab fa-fw fa-instagram"
-    #   url: "https://www.instagram.com/kevin.t_t/"
-    "Insert ur shit here bro"
+    - label: "GitHub"
+      icon: "fab fa-fw fa-github"
+      url: "https://github.com/MichaelDNM"
+    - label: "LinkedIn"
+      icon: "fab fa-fw fa-linkedin"
+      url: "https://www.linkedin.com/in/michael-nguyen-4861a9132/"
+    - label: "Instagram"
+      icon: "fab fa-fw fa-instagram"
+      url: "https://www.instagram.com/michaeldnm/"
 
 
 # Site Footer
 footer:
   links:
-    # - label: "GitHub"
-    #   icon: "fab fa-fw fa-github"
-    #   url: "https://github.com/JKevin101"
-    # - label: "LinkedIn"
-    #   icon: "fab fa-fw fa-linkedin"
-    #   url: "https://www.linkedin.com/in/kevin-tran-2187a31b4/"
-    # - label: "Instagram"
-    #   icon: "fab fa-fw fa-instagram"
-    #   url: "https://www.instagram.com/kevin.t_t/"
-    "Insert ur shit here bro"
+    - label: "GitHub"
+      icon: "fab fa-fw fa-github"
+      url: "https://github.com/MichaelDNM"
+    - label: "LinkedIn"
+      icon: "fab fa-fw fa-linkedin"
+      url: "https://www.linkedin.com/in/michael-nguyen-4861a9132/"
+    - label: "Instagram"
+      icon: "fab fa-fw fa-instagram"
+      url: "https://www.instagram.com/michaeldnm/"
 
 
 # Reading Files

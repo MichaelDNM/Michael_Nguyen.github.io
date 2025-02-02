@@ -2,10 +2,12 @@
 title: "About Michael Nguyen"
 ---
 
-## Education
-
+## About Me 
 Michael Nguyen is a dedicated professional with experience in IT sales, customer service, and hospitality. With a strong foundation in problem-solving, communication, and leadership, he thrives in fast-paced environments that require adaptability and efficiency. His expertise spans sales strategy, client relationship management, and team coordination, making him a valuable asset in both technical and service-driven industries.
 
+---
+
+## Education
 ### Gwinnett Technical College | Lawrenceville, GA (August 2024 - Present)
 - **Bachelor of Science in Nursing** 
 

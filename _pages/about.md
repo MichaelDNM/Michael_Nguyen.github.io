@@ -4,62 +4,44 @@ title: "About Michael Nguyen"
 
 ## Education
 
-Kevin Tran is a dedicated Biomedical Engineer with a strong foundation in integrating engineering principles into healthcare solutions. His expertise spans robotics, prosthetics, and electrical equipment design.
+Michael Nguyen is a dedicated professional with experience in IT sales, customer service, and hospitality. With a strong foundation in problem-solving, communication, and leadership, he thrives in fast-paced environments that require adaptability and efficiency. His expertise spans sales strategy, client relationship management, and team coordination, making him a valuable asset in both technical and service-driven industries.
 
-### Vanderbilt University  
-- **Bachelor of Engineering in Biomedical Engineering** (Expected May 2025)  
-  - Minor(s):  
-    - Electrical and Computer Engineering  
-    - Computer Science  
-    - Digital Fabrication  
+### Gwinnett Technical College | Lawrenceville, GA (August 2024 - Present)
+- **Bachelor of Science in Nursing** 
 
 ---
 
-## Work Experience
+## 💼 Work Experience  
+### **Sales Associate | IT Ignite**  
+📍 *Austin, TX | March 2024 - August 2024*  
+✔️ Provided exemplary **customer support** and maintained efficiency during peak hours  
+✔️ Created and managed data using **Microsoft Excel**  
+✔️ Conducted **research, networking, and cold calling** to identify potential business clients  
+✔️ Served as the **primary contact** for client inquiries and future sales opportunities  
 
-### **Biomedical Design Engineer | EMG-Controlled Bionic Hand**  
-*Nashville, TN | January 2024 - May 2024*  
-- Developed a bionic hand controlled by EMG signals, integrating bio-signal processing techniques.  
-- Programmed Arduino for precise motor control and designed components using SolidWorks and 3D printing.  
-- Enhanced user functionality through iterative design based on real-time feedback.
-
-### **Biomedical Engineer, Data Analyst | Biomagnetic and Bioelectric Analysis**  
-*Nashville, TN | January 2023 - November 2023*  
-- Conducted advanced data analysis using MATLAB and SQUIDviewer to examine gastric slow wave activity.  
-- Identified abnormalities in signal propagation, contributing to advancements in gastrointestinal health research.  
-
-### **Mechanical Team Lead | NASA Space Rover Competition**  
-*Nashville, TN | August 2021 - May 2023*  
-- Led the mechanical design for the NASA Space Rover competition, placing 2nd overall.  
-- Designed and prototyped a deposition bucket and chain tensioning system using OnShape CAD and 3D printing to address torque challenges.
+### **Assistant Manager & Barista | Ding Tea**  
+📍 *Suwanee, GA | September 2023 - February 2024*  
+✔️ Managed **daily operations**, ensuring a welcoming and efficient work environment  
+✔️ Led a team during **rush hours**, optimizing workflow and improving service speed  
+✔️ **Trained new employees** on company standards and operational procedures  
+✔️ Maintained **cleanliness and organization** to uphold high hygiene standards  
 
 ---
 
-## Technical Skills
-
-### Fabrication and Prototyping:
-- 3D Printing Technologies:
-  - Fused Filament Fabrication (FFF)
-  - Stereolithography (SLA)
-  - Selective Laser Sintering (SLS)  
-- CNC Machining and Digital Fabrication Tools  
-
-### Programming and Software:
-- Languages: Python, MATLAB, C++, Arduino  
-- Tools: SolidWorks (Certified), OnShape, LabVIEW, Raspberry Pi  
-
-### Areas of Expertise:
-- Signal Processing and Bio-Signal Integration  
-- Robotics and Mechanical Prototyping  
-- User-Centered Design for Prosthetics  
+## 🛠️ Skills  
+- **Customer Support & Sales**: Client relations, cold calling, and sales strategy  
+- **IT & Software Proficiency**: Microsoft Excel, CRM tools, data entry  
+- **Leadership & Team Management**: Training, coordinating teams, and problem-solving  
+- **Multitasking & Adaptability**: Handling high-pressure environments with efficiency  
+- **Languages**: Fluent in **English, Vietnamese, and French**  
 
 ---
 
-## Publications and Awards
+## ⚡ Areas of Expertise  
+🚀 IT Sales & Client Support  
+🚀 Business Development & Networking  
+🚀 Leadership & Team Coordination  
+🚀 Psychology & Human Behavior Studies  
+🚀 Customer Service & Hospitality Management  
 
-### Awards
-- **NASA Space Rover Competition (2021)**: Placed 2nd overall as Mechanical Team Lead, designing and prototyping key robotic components.
-- **Vanderbilt Cheerleading Rookie of the Year (2022)**: Recognized for teamwork, dedication, and time management while supporting athletic events.
-
-### Publications
-- Contributed to advancements in **gastric slow wave analysis** through data-driven research and findings published in gastrointestinal health studies (in progress).
+---
